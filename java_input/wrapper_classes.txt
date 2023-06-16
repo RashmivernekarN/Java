@@ -1,0 +1,26 @@
+WRAPPER CLASSES FOR CONVERTING SIMPLE TYPES
+Integer IntVal=new Integer(i);
+Float FloatVal=new Float(f);
+Double DoubleVal=new Double(d);
+Long LongVal=new Long(l);
+
+
+int i=IntVal.intValue();
+float f=FloatVal.floatValue();
+double d=DoubleVal.double.Value(); 
+long l=LongVal.longValue();
+
+str=Integer.toString(i);
+str=Float.toString(f);
+str=Double.toString(d);
+str=Long.toString(l);
+
+
+IntVal=Integer.valueOf(str);
+FloatVal=Float.valueOf(str);
+DoubleVal=Double.valueOf(str);
+LongVal=Long.valueOf(str);
+
+int i=Integer.parseInt(str);
+
+long l=Long.parseLong(str);

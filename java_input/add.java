@@ -1,3 +1,4 @@
+//program to accept values from user by command line argument method
 public class add {
 
     public static void main(String[] args) {

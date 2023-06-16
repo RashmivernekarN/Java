@@ -1,3 +1,4 @@
+//Program to accept value from user by using DataInputStream method
 import java.io.*;
 public class KeyboardReading1
 {
