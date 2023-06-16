@@ -1,4 +1,3 @@
-//Program to find sum of 2 numbers
 import java.util.Scanner;
 public class Addition {
    public static void main(String[] args) {
@@ -8,6 +7,6 @@ public class Addition {
       System.out.print("Enter second number: ");
       int secondNumber = s.nextInt();
       int sum = firstNumber + secondNumber;
-      System.out.println("The result of addition is= " + sum);
+      System.out.println("The result of addition is " + sum);
    }
 } 
