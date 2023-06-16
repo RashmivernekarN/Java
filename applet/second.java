@@ -2,6 +2,7 @@
 
 import java.applet.Applet;  
 import java.awt.Graphics;  
+
 public class second extends Applet{  
   
 public void paint(Graphics g){  
@@ -10,6 +11,7 @@ g.drawString("HELLO",50,50);
 } 
 
 }  
+
 /* 
 <applet code="second.class" width="300" height="300"> 
 </applet> 
